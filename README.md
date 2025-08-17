@@ -27,4 +27,4 @@ The template was made for Knocky by mechunt.
 The code was written by mechunt
 The font in paper called Montserrat
 
-*This is a joke. No offensive to them. I respect their glorious job in work of server IMPERIUM.
+*This is a joke. No offensive to them. I respect their glorious work on server IMPERIUM.
