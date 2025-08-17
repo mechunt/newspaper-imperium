@@ -1,5 +1,5 @@
 # Newspaper-imperium.py | The program that will finally kill Tegrum*
-Just a program, who generates newspaper by using the template and deepseek. 
+Just a program, which generates newspaper by using the template and deepseek. 
 Without images currently. But i promise, i will add it.
 
 | INSTALATION |
